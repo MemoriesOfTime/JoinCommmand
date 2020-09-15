@@ -1,0 +1,2 @@
+commands:
+  - "tell @p welcome!&con"
